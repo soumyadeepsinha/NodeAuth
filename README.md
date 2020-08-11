@@ -7,11 +7,12 @@
 ### agenda
 
 - [x] Create a NodeJS app with Express
-- [x] Create Routes for application
+- [x] Create Register route
 - [x] Create a MongoDB Cluster & connect to app
 - [x] User Registration
 - [x] Restrict duplicat emails
 - [x] Password hashing
+- [x] Login to app
 
 ---
 
