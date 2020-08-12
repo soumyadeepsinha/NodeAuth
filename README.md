@@ -1,6 +1,6 @@
 # Working with Authentication in NodeJS with MongoDB
 
-## We're using Express, Dotenv, Mongoose & Nodemon packages
+## We're using Express, Dotenv, Mongoose, jsonwebtoken, joi & Nodemon packages
 
 ---
 
@@ -13,6 +13,8 @@
 - [x] Restrict duplicat emails
 - [x] Password hashing
 - [x] Login to app
+- [x] Generate JWT Token
+- [] Authenticate JWT Token
 
 ---
 
